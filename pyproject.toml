@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "jax-data"
+version = "0.1.0"
+description = "Native data handling for JAX"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/Ashrit-Yarava/jax-data.git"
+authors = ["Ashrit Yarava <ashrity01@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
