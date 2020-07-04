@@ -9,6 +9,9 @@ authors = ["Ashrit Yarava <ashrity01@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+jax = "^0.1.72"
+jaxlib = "^0.1.51"
+numpy = "^1.19.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
