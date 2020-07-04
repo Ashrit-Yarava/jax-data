@@ -1,0 +1,9 @@
+README.md
+setup.py
+jax_data/__init__.py
+jax_data/data.py
+jax_data.egg-info/PKG-INFO
+jax_data.egg-info/SOURCES.txt
+jax_data.egg-info/dependency_links.txt
+jax_data.egg-info/requires.txt
+jax_data.egg-info/top_level.txt

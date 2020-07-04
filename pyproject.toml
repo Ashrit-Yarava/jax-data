@@ -1,11 +1,12 @@
 [tool.poetry]
 name = "jax-data"
-version = "0.1.0"
+version = "0.1.1"
 description = "Native data handling for JAX"
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/Ashrit-Yarava/jax-data.git"
 authors = ["Ashrit Yarava <ashrity01@gmail.com>"]
+keywords = ["jax", "jax-data", "data", "dataset", "datahandling"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
